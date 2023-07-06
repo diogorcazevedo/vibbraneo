@@ -22,7 +22,7 @@
 - Front end web: Vercel
 
 # Execução do projeto
-O projeto está hospedado no nossos servidores no endereço http://www.example.com.
+O projeto está hospedado no nossos servidores no endereço https://vibbraneo-theta.vercel.app/
 - Usuário: vibbraneo@gmail.com
 - Senha: 123456
 
@@ -31,13 +31,14 @@ O projeto está hospedado no nossos servidores no endereço http://www.example.c
 
 # Repositórios e documentação
 ## Github
-Repositório Github: http://www.example.com
+Repositório Github: https://github.com/diogorcazevedo/vibbraneo
 
 
 ## GitLab
 Repositório GitLab: http://git.vibbra.com.br/
 - Usuário: diogo-1688006719
 - Senha: vibbra@2021
+
 
 
 
