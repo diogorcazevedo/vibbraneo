@@ -149,20 +149,22 @@ Listar Negócios com propostas Aprovadas
 
 
 
-### Ações em negócios/vendas #Propostas
+### Ações em negócios
+#### Propostas
+#### ações do vendedor 
 - Listar Propostas direcionadas ao Negócio
 - EDITAR: Aprovar ou recusar proposta
-![Dashboard 20](https://cvws.icloud-content.com/B/AUU0L96bkZi15B1q1AymSfFyyrAfAZIVUUdglnI6LjCHAHX8r8w89wwr/ctd20.png?o=ApmsqVNsWco4mw__Qp1CaiLbYZnkKQFsXq7yOuMdiVhs&v=1&x=3&a=CAogt8V-CKDYfwBJJ6m0Q9jA3R4xr8ukqPhXPr18ARQCZNkSbRCbrPaakjEYm4nSnJIxIgEAUgRyyrAfWgQ89wwraiY8QvzW1-RNmUC0ywD-CeAGa4w7lISl7Lscogz2mMPjAkKB-AIqA3ImH0sUeVlJmuAZsy7kQ1kFBmH5rtOAO6K1eknLTZ-T0RrCKWAWjoQ&e=1688519083&fl=&r=bff733f8-6d72-4d42-ad96-73ca3453c689-1&k=IAvUyQrYZBMydxnMWo0v6w&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=JMcpNy4t5OWSccZ-c0P_o9s8rHY&cd=i)
-![Dashboard 22](https://cvws.icloud-content.com/B/AcLSgROXoSEflFdH41rMxh0Oc8JZAcxM4AtxdQz_ylKmMkNzHJnTfeks/ctd_22_especial.png?o=AuRi8ALGUFnQpJrzTW0Yugvd5Fb3PDpzdiIhKnEa2ij_&v=1&x=3&a=CAog4DlSzHpezI_wKK7OeMu85v8Lp2-NSjb-z4qX7AXvN10SbRC_0JrEkjEYv632xZIxIgEAUgQOc8JZWgTTfeksaiZy9mLhfOXzJGUsFUVsgDT_Uy5pt1KIaUlUjsHjFE_uE3aBwUNj3nImvcg11wA_dWg6jS7eW2j3FvfeNvt6Y9OX5D4XfBe-hWWiCTFjcKE&e=1688605660&fl=&r=8d961fc7-800a-4cef-b2f7-6416de096a84-1&k=wUfguLDkCzFZZjZggTSOIA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=czf8GDMceARRe_7X26sSzgsV648&cd=i)
+![dashboard 15](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/37.png)
+![dashboard 16](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/39_especial.png)
 
 
-
-### Ações em negócios/vendas #Mensagens
+### Ações em negócios
+#### Mensagens
+#### ações do vendedor 
 - Listar Mensagens direcionadas ao Negócio
 - RESPONDER: Aprovar ou recusar proposta
-
-![Dashboard 21](https://cvws.icloud-content.com/B/ASY8XKONzUHqV7yAL09-5Y50BmqjAeI6uDFV9HlJY_qgkDn6qFBKhbN8/ctd21.png?o=Ag2P_rnt5Gu9QzEyJ9a1dlnNrU8oY5nXsyn34Ag-aQsv&v=1&x=3&a=CAogMac9J7MKEU95SyZeueVQlYk5GSGd_sUmXEfLhOoGf78SbRDnm_aakjEY5_jRnJIxIgEAUgR0BmqjWgRKhbN8aiaeNfSkCG-NXyK9PHzOypUVR4I9ESwZdafcA23BAlQhInYw7qyj4XIm94zxGmRLl5pa-SfeaoYa8e0pWmfguHpKefx_5Q-z08J5Y70rYv0&e=1688519081&fl=&r=13ce275e-9687-42a9-a0d4-34d879f8583d-1&k=cQVySbSfND1BrAqttQf12Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=Nd1IQqRw1NZegrdYo8Dj7X-r9oQ&cd=i)
-![Dashboard 23](https://cvws.icloud-content.com/B/AaksPDYj35Azj4wFPKgh3E6quUg-AYb9Q-W7BTClOwKRqHDV6RLwRDYw/ctd_23_especial.png?o=AurJJan34VG_iSC0o_kkIi21gIC2I5gVd7HWhSDb9a9k&v=1&x=3&a=CAogCrZHFvvAi4ljmqENZ65RvRzbosW7E-kzBEdSRXjPTj4SbRDRorTEkjEY0f-PxpIxIgEAUgSquUg-WgTwRDYwaiYZjqJ6sOnaXVywBqBqndk6Gt7K-wEndMki-NdVdeL9wtupO57B73Im3XeRylmpwnhXQ1uaYuHYTW-FLDl0eMaHxuY-5MK3xZewK_jF1ss&e=1688606080&fl=&r=d346e97e-129f-4221-9365-af94e24ee238-1&k=LmeN5ohqZgpuXkbV4XyCgQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=OfuUgYyLHGpof2pWitKbJSwb6q0&cd=i)
+![dashboard 17](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/38.png)
+![dashboard 18](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/40_especial.png)
 
 
 
