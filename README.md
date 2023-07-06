@@ -15,7 +15,7 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
     * Atribuições divididas com tela logada, já que o sistema é para funcionar logado!!!
 
 
-![Home 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/1.png)
+![Home 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/2.png)
 
 
 
