@@ -3,7 +3,7 @@ licença
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+
 
 Vibbraneo é uma aplicação full stack web construída para teste na plataforma Vibbra.
 
