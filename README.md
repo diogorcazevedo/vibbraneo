@@ -14,13 +14,8 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
     * Tela inicial - 1 
     * Atribuições divididas com tela logada, já que o sistema é para funcionar logado!!!
 
-<p float="left">
 
- <img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://cvws.icloud-content.com/B/AfwjtrDqxygfMSfEvu5h7eDswM4sAQoE7f38QeUi59-pA-KgZM0SPVzg/h1.png?o=AiR0GG-TDsmeefdyVbrRLPF6xi-qjhkv7-I30FzJDN_H&v=1&x=3&a=CAogF8MP0_ZNIjhYfZRfqswp1gcJ7fZD_C6HFl6yry1KQugSbRDV1c_AkjEY1bKrwpIxIgEAUgTswM4sWgQSPVzgaiaYmnyVkTz-aYvzmbvqjZuYfDt6F0ebryVKhy9s5HBWqAPw1iCVUXImTjosMWKGnV3A-qa3TmAjdxx_Uipp6xCmBULObfgtU45pbpu7US4&e=1688598141&fl=&r=3ea3f1d7-7278-4bac-a272-6461f298141a-1&k=jwkEKUAfbQAknid9hEgmWQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=L8XDZdiky4liMBkgIx6ZMLmMW9M&cd=i)" width="200" />
-
-</p>
-
-![Home 1](https://cvws.icloud-content.com/B/AfwjtrDqxygfMSfEvu5h7eDswM4sAQoE7f38QeUi59-pA-KgZM0SPVzg/h1.png?o=AiR0GG-TDsmeefdyVbrRLPF6xi-qjhkv7-I30FzJDN_H&v=1&x=3&a=CAogF8MP0_ZNIjhYfZRfqswp1gcJ7fZD_C6HFl6yry1KQugSbRDV1c_AkjEY1bKrwpIxIgEAUgTswM4sWgQSPVzgaiaYmnyVkTz-aYvzmbvqjZuYfDt6F0ebryVKhy9s5HBWqAPw1iCVUXImTjosMWKGnV3A-qa3TmAjdxx_Uipp6xCmBULObfgtU45pbpu7US4&e=1688598141&fl=&r=3ea3f1d7-7278-4bac-a272-6461f298141a-1&k=jwkEKUAfbQAknid9hEgmWQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=L8XDZdiky4liMBkgIx6ZMLmMW9M&cd=i)
+![Home 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/1.png)
 
 
 ![Home 2](https://cvws.icloud-content.com/B/ARdRk2yxu586qJKq124LZectgMyQAVQtT8a1zex9yf8KcTBR7izReuj8/h2.png?o=AsqHNAF5dL5xmjm12rTVdOu6YU-RNrwn98UxMgRAmhZs&v=1&x=3&a=CAog6k4zVzkl7LG7PkPv2U2Iw1KzCAzA0-zyAI5gm3sNz6ESbRC4w8_AkjEYuKCrwpIxIgEAUgQtgMyQWgTReuj8aiakGwrI79hcIHricssaP6hPMXWd7V7FiCKSRNrVdeikEmdlZT6u6XImWwAwK6-I5AYFjRn0xVN91ojJnfF2Wyi2jnKE4E7uQ9rZnUICOhI&e=1688598138&fl=&r=64e4d1d2-e9ce-47be-8fc2-b2c9751048e2-1&k=BYWQ2MFLe_omZuKx3nqYwA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=xkB7UCNKWrNuXo-uwZp_2EA9HWs&cd=i)
