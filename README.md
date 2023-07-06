@@ -122,17 +122,14 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
         * Poderá ver e aprovar as ofertas realizadas na negociação.
 
 
+### CRIAR negócios
+![dashboard 7](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/29.png)
+![dashboard 8](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/30.png)
 
-
-### CRIAR PROPOSTA
-![Dashboard 12](https://cvws.icloud-content.com/B/AXVIa_K-ck73P0qtAj3vQGOlRhuFAXwMMpMy0yiYOHtFkS2xAPXxMKiT/ctd12.png?o=AkppcLNnNMdDvKj3np3JaKVq9V2Q9V7-FQPnD8r1PJEp&v=1&x=3&a=CAog9IOyo_6QHhJf0hZ_Xjgmz6Mk3tLADQQaHKRA0g3TUu4SbRCiufeakjEYopbTnJIxIgEAUgSlRhuFWgTxMKiTaiZllR8VvzHBNCMPGZisEXMVUkhiTQUWDWJvCkUFWEIa9YQ2GYdADnIm0qYUsTdixxHai6ErbUAM8Jv5BKbZk5_SZIN2Qwz2g4eG6cK0wKI&e=1688519101&fl=&r=58ddb5e3-7b41-4fd6-a485-1c1020c7e64d-1&k=w7HgeG3jIV37Dh05vkDN4w&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=FGQcK7J4EHoI_Ciw1xdIUFy26qk&cd=i)
-![Dashboard 13](https://cvws.icloud-content.com/B/AZDz6_GJfaYE0-0gwfPy0kWFzhFvAd26zJRSkyk_N4YjEx7-b8RKY8sy/ctd13.png?o=Ai_kWdXJrT7O83zte2UdMcGVO7LbDiesJxdlitbD7usH&v=1&x=3&a=CAogfHfh9KWApgitclNsIRzyz8eECJNryY5K9hcAsU0TC14SbRDPpveakjEYz4PTnJIxIgEAUgSFzhFvWgRKY8syaiaFOiEcXpkIJREz-3MyFbCEVKDcmvxlTm_pg6fD-DI7eIVjTLkmUXImVyWJ5aqIHyqzxPkHZeTKAuO0P_AVRhsEGaS4Zg8mjE9DaNKg0VA&e=1688519098&fl=&r=8c6f7c93-c89b-472a-bccf-8cfa55f604ca-1&k=f6W9quNsINRUZ7HDOpI7CA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=qQbJOeQ4wbjwNzFkQcuZkgMQ1qA&cd=i)
-
-### EDITAR PROPOSTA
-![Dashboard 14](https://cvws.icloud-content.com/B/ATDC3mkB10fCXa0jpOZYFaWmsUwHAbGYkDs9h2PUuheJjceZH4_0Pv9c/ctd14.png?o=AiD7pTRqDEFQG4ghJGwpo6yXRbxXsoMP2nf4hV8BkOgP&v=1&x=3&a=CAogmUaHMLFVvjDxV7r0c23bpx4LPnxrcPX1OthlpIqa1vMSbRD3k_eakjEY9_DSnJIxIgEAUgSmsUwHWgT0Pv9caibd1MhoIjTXCAwd1uWW0Id7mUlziKBtI63fUm2Z8u1H4x-qiqnBWHImAam8yeLrVvf0QPs22MxI5AQQYgAq9lGymbDhafXs9oo_jcCj3DA&e=1688519096&fl=&r=7af74f41-4330-451c-99fd-4b0f0d823013-1&k=tlSRcyJdSXgjQRLUf7qr1Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=z-crY_INj5EzVRCD4slfiiovlo8&cd=i)
-![Dashboard 15](https://cvws.icloud-content.com/B/AQp_2F2yHL0UNH3xrfPuVRkONUMLAVR7LKzn8u7sQm6T5lzyStQEicVD/ctd15.png?o=Ai8XsoiD6u40owFbQGVST_p29XfoJ8HGci0OYC36jGmR&v=1&x=3&a=CAog1ADeQY_40AGhQb1MBZyxLrPWXFgon4Q5Kskq3ll73hoSbRDnh_eakjEY5-TSnJIxIgEAUgQONUMLWgQEicVDaiZ3h9B6P6UEnB5oX7kuuVkdfkTyA46vpWHfa908FpFTZTmOwK4cV3ImI-ayViMcvr6pmuuZdIt14dwWeZC6mElaz4F8shEO5xT9YJo4Jo0&e=1688519094&fl=&r=c5291bf6-3d73-4ba1-8f06-98c2a85e1626-1&k=bPyYysy_xyG2-pr1LL9UKw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=IV_cln0hguT4DYAeD07Ds7NIO1M&cd=i)
-![Dashboard 16](https://cvws.icloud-content.com/B/Aai5QmcCh-v9dSuM7WT74PfiVrUpAf9UcfwGfHMkjpCzJeYZCVZKvOTR/ctd16.png?o=AqMm-alNIfBRxRJ-fczFiBVBEngio2fKZL5khrdfjzhw&v=1&x=3&a=CAogoGnLtGxqccYqKE8qVpLL5nZ_CA84cS8mp-xPFytPPU0SbRD39faakjEY99LSnJIxIgEAUgTiVrUpWgRKvOTRaiZ_8aKRJJt50RDIq9slJal_5Uesjr6mkb4ZvdMEnvG_cvsZ-WrBfnImeZftQkRzDHVGs-OBYIHOymjzOieqBTRUFiTpdX-d1RK-H31Tp_g&e=1688519092&fl=&r=644f9114-389c-41cd-b007-e82e85533f75-1&k=jm_UJOK-l2hRVB2nSf_VRA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=W7KN0gBL2afEmrj2XrTm2uc5G8E&cd=i)
-
+### EDITAR negócios
+![dashboard 9](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/31.png)
+![dashboard 10](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/32.png)
+![dashboard 11](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/33.png)
 
 ### ATIVAR OU DESATIVAR PROPOSTA
 ![Dashboard 23](https://cvws.icloud-content.com/B/AROCqK4TFpS4wHgIHeCLKpP9BxdNAbfvlUdBDh27hOF1Elnhedo9sbRg/ctd_24_especial.png?o=Anrprh-jlWsMgxT8lmFyy9WRaoX0851VYsEw6WKwbM3c&v=1&x=3&a=CAogSEsWWFCxGGpr4HBqd3ODh02Q96hxkFqlELr9ehsyTSUSbRDtz-XEkjEY7azBxpIxIgEAUgT9BxdNWgQ9sbRgaiacYdfAipCboysVuYgfuKDBmLbZZlAvwdZLCcKwBMHr1aOU_3upmnImqSQB0rBaejKJz-qWMCFV78eWXNsPVcxdO0UzdWl52d8KAx7IDGw&e=1688606889&fl=&r=a7bf85de-61df-4f45-9776-68b5f49ffccd-1&k=7kTSymKPItVrKr1uH8i8dQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=M8mKj0Pesh0g-wchEJCQHts1o8M&cd=i)
