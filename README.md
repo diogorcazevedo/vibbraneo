@@ -1,5 +1,5 @@
 # Vibbraneo
-licença
+
 
 # Sobre o projeto
 
