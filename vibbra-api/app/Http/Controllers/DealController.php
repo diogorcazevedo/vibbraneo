@@ -601,6 +601,45 @@ class DealController extends Controller
         ]);
     }
 
+
+
+    /**
+     * @OA\Put(
+     * path="/deal/active/{id}",
+     * summary="update active deal",
+     * description="edit active deal",
+     * operationId="dealActive",
+     * tags={"deal"},
+     * security={{"bearerAuth": {} }},
+     * @OA\Parameter(
+     *    name="id",
+     *    in="path",
+     *    example= 1,
+     *    description="deal_id - id do registro",
+     *    required=true,
+     *    @OA\Schema(
+     *       type="integer",
+     *     ),
+     *  ),
+     * @OA\RequestBody(
+     *    required=true,
+     *    description="Pass Update fields",
+     *    @OA\JsonContent(
+     *       required={"active"},
+     *       @OA\Property(property="active", type="string", format="text", example="1"),
+     *    ),
+     * ),
+     * @OA\Response(
+     *    response=201,
+     *    description="descrition list"
+     *     ),
+     * @OA\Response(
+     *          response="default",
+     *          description="An error has occurred."
+     *      )
+     * )
+     */
+
     public function active(Request $request, $id)
     {
         $request->validate([

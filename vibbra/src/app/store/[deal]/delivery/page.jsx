@@ -5,12 +5,10 @@ import React, {useEffect, useState} from "react";
 import {AUTH_STORAGE, USER_STORAGE} from "@/storage/storageConfig";
 import {api} from "@/services/api";
 import {useRouter} from "next/navigation";
-import SlideBidCreate from "@/components/SlideBidCreate";
 import {getRequestError} from "@/app/services/error";
 import {ErrorMessage} from "@/components/ErrorMessage";
-import SlideMessageCreate from "@/components/SlideMessageCreate";
-import SlideSaleCheckout from "@/components/SlideSaleCheckout";
 import {FormLocationDelivery} from "@/components/forms/FormLocationDelivery";
+import Link from "next/link";
 
 
 export default function Deal({ params }) {
@@ -64,11 +62,25 @@ export default function Deal({ params }) {
                                 <p className="mt-4 text-gray-500">
                                     {deal.description}
                                 </p>
-                                <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-4 sm:grid-cols-2">
+                                <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-4 sm:grid-cols-1">
                                     <FormLocationDelivery deal={deal} user={user} />
+                                </div>
+                                {/* Nav section */}
+                                <div className="bg-indigo-100 mt-6">
+                                    <div className="mx-auto max-w-7xl px-6 py-8 lg:flex lg:items-center lg:justify-between lg:px-8">
+                                        <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+
+                                        </h2>
+                                        <div className="mt-10 flex items-center gap-x-6 lg:mt-0 lg:flex-shrink-0">
+                                            <Link href="/user/dashboard" className="text-sm font-semibold leading-6 text-gray-900">
+                                                gerenciar <span aria-hidden="true">→</span>
+                                            </Link>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
+
                     </section>
                 </div>
             }

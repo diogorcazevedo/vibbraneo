@@ -16,7 +16,7 @@ export default function SlideBidCreate({deal,user}) {
                 type="button"
                 className="rounded-md px-3 py-2 text-sm text-white bg-teal-600 hover:bg-teal-200 shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-600 w-full"
             >
-                Troca
+                Trocar
             </button>
             <Transition.Root show={open} as={Fragment}>
                 <Dialog as="div" className="relative  z-50" onClose={setOpen}>

@@ -2,6 +2,7 @@
 
 
 import FormLogin from "@/components/forms/FormLogin";
+import Link from "next/link";
 
 
 export default function Login() {
@@ -10,7 +11,7 @@ export default function Login() {
 
         <div className="bg-white">
             <div className="relative isolate overflow-hidden bg-gray-900">
-                <div className="px-6 py-6 sm:px-6 sm:py-6 lg:px-8">
+                <div id="login" className="px-6 py-6 sm:px-6 sm:py-6 lg:px-8">
                     <img src="/logo_vibbraneo.png" className="h-12 w-auto" alt="vibbraneo"/>
                     <div className="mx-auto max-w-2xl text-center">
                         <h2 className="text-3xl font-normal tracking-tight text-white sm:text-4xl">
@@ -191,24 +192,22 @@ export default function Login() {
                     </div>
                 </div>
                 {/* Nav section */}
-                <div className="grid grid-cols-3 gap-4 px-20 py-20">
-                    <div>
-                        <p
-                            className=" w-full text-vibbra-blue-500 fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-                            Comprar
-                        </p>
-                    </div>
-                    <div>
-                        <p
-                            className=" w-full text-vibbra-blue-500 fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-                            Vender
-                        </p>
-                    </div>
-                    <div>
-                        <p
-                            className=" w-full text-vibbra-blue-500 fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
-                            Trocar
-                        </p>
+                <div className="bg-indigo-100">
+                    <div className="mx-auto max-w-7xl px-6 py-24 sm:py-32 lg:flex lg:items-center lg:justify-between lg:px-8">
+                        <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+                            Já é membro?
+                        </h2>
+                        <div className="mt-10 flex items-center gap-x-6 lg:mt-0 lg:flex-shrink-0">
+                            <a
+                                href="#login"
+                                className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                            >
+                                Acesso para membros
+                            </a>
+                            <Link href="/" className="text-sm font-semibold leading-6 text-gray-900">
+                                Voltar <span aria-hidden="true">→</span>
+                            </Link>
+                        </div>
                     </div>
                 </div>
 

@@ -10,16 +10,6 @@ import {getRequestError} from "@/app/services/error";
 import {ErrorMessage} from "@/components/ErrorMessage";
 import SlideMessageCreate from "@/components/SlideMessageCreate";
 import SlideSaleCheckout from "@/components/SlideSaleCheckout";
-import { CheckCircleIcon } from '@heroicons/react/20/solid'
-
-const benefits = [
-    'Competitive salaries',
-    'Flexible work hours',
-    '30 days of paid vacation',
-    'Annual team retreats',
-    'Benefits for you and your family',
-    'A great work environment',
-]
 
 export default function Deal({ params }) {
 
@@ -75,12 +65,14 @@ export default function Deal({ params }) {
                                             <SlideSaleCheckout deal={deal} user={user} />
                                         </div>
                                         {deal.trade_for &&
+
                                             <div className="px-4 py-4">
                                                 <div className="grid grid-cols-4 gap-4">
-                                                    <div className="col-span-3">
-                                                        <p className="text-white">Aceita troca por: {deal.trade_for}</p>
+                                                    <div className="col-span-4">
+                                                        <p className="text-white">O vendedor deste produto aceita troca por outros produtos e serviços</p>
                                                     </div>
-                                                    <div className="col-span-1">
+
+                                                    <div className="col-span-4">
                                                         <SlideBidCreate deal={deal} user={user} />
                                                     </div>
                                                 </div>

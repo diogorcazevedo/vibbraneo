@@ -74,11 +74,11 @@ export default function Bids() {
                     {bids.filter(bids => bids.accepted === 0 ).map((bid) => (
                         <tr key={bid.id} className="divide-x divide-y divide-gray-200">
                             <td className="text-sm p-2">{bid.deal.user.name}</td>
-                            <td width="30%" className="text-sm p-2">{bid.deal.description}</td>
-                            <td width="30%" className="text-sm p-2">{bid.description}</td>
+                            <td width="25%" className="text-sm p-2">{bid.deal.description}</td>
+                            <td width="25%" className="text-sm p-2">{bid.description}</td>
                             <td className="text-sm p-2">{ new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(bid.deal.value) } </td>
-                            <td className="text-sm p-2">{ new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(bid.value) } </td>
-                            <td className="text-sm text-center items-center justify-center p-2">
+                            <td width="5%" className="text-sm p-2">{ new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(bid.value) } </td>
+                            <td width="25%" className="text-sm text-center items-center justify-center p-2">
                                 <Link href={"/store/"+bid.deal.id} className="disabled:opacity-25 inline-block w-full items-center px-2 py-1 border border-transparent text-xs rounded shadow-sm text-white bg-teal-600 hover:bg-teal-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500">
                                     Nova proposta
                                 </Link>
