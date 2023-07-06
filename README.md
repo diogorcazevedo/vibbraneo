@@ -138,14 +138,14 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
 ### LISTAR NEGÓCIOS
 - Listar Negócios com propostas Abertas
 - Listar Todos os Negócios
-![dashboard 12](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/27.png)
-![dashboard 13](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/28.png)
+![dashboard 12](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/35.png)
+![dashboard 13](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/36.png)
 
 
 
 ### LISTAR PROPOSTA/OFERTAS
 Listar Negócios com propostas Aprovadas
-![dashboard 14](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/26.png)
+![dashboard 14](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/34.png)
 
 
 
