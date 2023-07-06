@@ -3,6 +3,25 @@
 https://vibbraneo-theta.vercel.app/
 
 
+# Execução do projeto
+O projeto está hospedado no nossos servidores no endereço https://vibbraneo-theta.vercel.app/
+- Usuário: vibbraneo@gmail.com
+- Senha: 123456
+
+- Usuário2: vibbranea@gmail.com
+- Senha2: 123456
+
+# Repositórios e documentação
+## Github
+Repositório Github: https://github.com/diogorcazevedo/vibbraneo
+
+
+## GitLab
+Repositório GitLab: http://git.vibbra.com.br/
+- Usuário: diogo-1688006719
+- Senha: vibbra@2021
+
+
 
 # Sobre o projeto
 
@@ -261,22 +280,4 @@ Listar Negócios com propostas Aprovadas
 - Front end web: Vercel
 - Banco de dados: Mysql
 
-
-# Execução do projeto
-O projeto está hospedado no nossos servidores no endereço https://vibbraneo-theta.vercel.app/
-- Usuário: vibbraneo@gmail.com
-- Senha: 123456
-
-- Usuário2: vibbranea@gmail.com
-- Senha2: 123456
-
-# Repositórios e documentação
-## Github
-Repositório Github: https://github.com/diogorcazevedo/vibbraneo
-
-
-## GitLab
-Repositório GitLab: http://git.vibbra.com.br/
-- Usuário: diogo-1688006719
-- Senha: vibbra@2021
 
