@@ -122,32 +122,30 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
         * Poderá ver e aprovar as ofertas realizadas na negociação.
 
 
-### CRIAR negócios
+### CRIAR NEGÓCIO
 ![dashboard 7](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/29.png)
 ![dashboard 8](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/30.png)
 
-### EDITAR negócios
+### EDITAR NEGÓCIO
 ![dashboard 9](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/31.png)
 ![dashboard 10](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/32.png)
 ![dashboard 11](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/33.png)
 
 ### ATIVAR OU DESATIVAR PROPOSTA
-![Dashboard 23](https://cvws.icloud-content.com/B/AROCqK4TFpS4wHgIHeCLKpP9BxdNAbfvlUdBDh27hOF1Elnhedo9sbRg/ctd_24_especial.png?o=Anrprh-jlWsMgxT8lmFyy9WRaoX0851VYsEw6WKwbM3c&v=1&x=3&a=CAogSEsWWFCxGGpr4HBqd3ODh02Q96hxkFqlELr9ehsyTSUSbRDtz-XEkjEY7azBxpIxIgEAUgT9BxdNWgQ9sbRgaiacYdfAipCboysVuYgfuKDBmLbZZlAvwdZLCcKwBMHr1aOU_3upmnImqSQB0rBaejKJz-qWMCFV78eWXNsPVcxdO0UzdWl52d8KAx7IDGw&e=1688606889&fl=&r=a7bf85de-61df-4f45-9776-68b5f49ffccd-1&k=7kTSymKPItVrKr1uH8i8dQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=M8mKj0Pesh0g-wchEJCQHts1o8M&cd=i)
+![dashboard 11](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/41.png)
 
 
 ### LISTAR NEGÓCIOS
 - Listar Negócios com propostas Abertas
 - Listar Todos os Negócios
-![Dashboard 18](https://cvws.icloud-content.com/B/Ad9m2j09JdwHXqIN0MSyr4ZQ332zAV8PX2HlLR2HNqLsSGQV7CLDX4ar/ctd18.png?o=Anri8ST2099J56MdrZDb0-BgILhZMLxmc3QQ_QYar0NZ&v=1&x=3&a=CAogTWpi4O5PNOorZ594RKFojIK1VNlsEsq27tq4e4_PitQSbRDu0PaakjEY7q3SnJIxIgEAUgRQ332zWgTDX4araibWiSbT6OZbfdTXORJ6UVm7_YLICj3Rq0fNx5xjMx7bkwVedio1_HIm1BI-UxwOL4-JcnRVxCX-uHtqSRq5Pjdcxoy3g1VXyA5UkpDarxQ&e=1688519087&fl=&r=158ea9ff-a2d4-42dd-be83-3a70077c96e8-1&k=Q_WwTIQqCpHT8QSghWqHvw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=DCWdP7_CJxEXHyJ1ANFjh3tKb1w&cd=i)
-![Dashboard 19](https://cvws.icloud-content.com/B/AVHVNLPGRHbxIGv-VYiHgwRutjz6ARLV9wW64skErUm8u-XZwlKJrLYz/ctd19.png?o=Amc42ojb3cQugwELxi21ezY6sMoDefLICwDsyCC0IrZ9&v=1&x=3&a=CAogI46eBTeMirWzTJX5hBs-TVUVflS7YIe_rCetTgrTYrkSbRCrwPaakjEYq53SnJIxIgEAUgRutjz6WgSJrLYzaiZcKR-S2ILZrXh0Q908QHzTLceGYbUC4i8aqolazmTcnxSEaVVHYnImbf8f8BHMu0yuj2wrfeSkNz-nM62PGJdM1fiOp8-61Jm-TOoGu8Q&e=1688519085&fl=&r=5c00e6a3-23c5-4324-a2fd-3f7e26302a08-1&k=JcODX0xyymqiABkyXcD9Yg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=b5QMemoCjyhZw02lpPamP5LedYE&cd=i)
+![dashboard 12](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/27.png)
+![dashboard 13](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/28.png)
 
 
 
 ### LISTAR PROPOSTA/OFERTAS
 Listar Negócios com propostas Aprovadas
-![Dashboard 17](https://cvws.icloud-content.com/B/Afsr8R9lmn0mFNkWhTa15Kl-551kAYQQ7wZH7MB361Xw45JIFSIvPR_2/ctd17.png?o=AmcVZ7OKL7a5MLVDxSFPKyUVAOVfc0J1lUC7_RRz2mYx&v=1&x=3&a=CAogUZ5DP2nYlMka-FWZzAiystK-jknB0Iz6u4AJr-dZJcMSbRCS4vaakjEYkr_SnJIxIgEAUgR-551kWgQvPR_2aiZhraTu9xVZDmS7sCNO5IHPymCSkr65_O5EEoh1GhSuyW-jzunXwHImI9EKPNaOhbCn9n-ubOP91NrJYcW4XUPgQ3OPAsHGS1a06pj3QKU&e=1688519090&fl=&r=1ec62952-9f8b-473a-85a5-57a2b21f29a8-1&k=COonhBazC5M0VDrLwsFrvA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=xrE7jh-mYjb-qXn3k8ae_SLvutQ&cd=i)
-
-
+![dashboard 14](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/26.png)
 
 
 
