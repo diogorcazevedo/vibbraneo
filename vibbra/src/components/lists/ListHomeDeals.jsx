@@ -6,6 +6,7 @@ import {api} from "@/services/api";
 import {useRouter} from "next/navigation";
 import {getRequestError} from "@/app/services/error";
 import {ErrorMessage} from "@/components/ErrorMessage";
+import Link from "next/link";
 
 
 
@@ -43,10 +44,10 @@ export default function ListHomeDeals() {
             {loading && <p>Loading...</p>}
             <ErrorMessage errorMessage={errorMessage} />
             {!loading &&
-
                 <ul role="list" className="grid grid-cols-1 gap-x-6 gap-y-8 lg:grid-cols-3 xl:gap-x-8">
                     {deals.slice(0, 3).map((deal) => (
-                        <li key={deal.id} className="overflow-hidden rounded-xl border border-gray-200">
+                        <Link key={deal.id}  href={'/user/deals/'+deal.id+'/edit'}>
+                            <li  className="overflow-hidden rounded-xl border border-gray-200">
                             <div className="flex items-center gap-x-4 border-b border-gray-900/5 bg-gray-50 p-6">
                                 <img
                                     src={deal.photos[0]? deal.photos[0].src: "https://vibbra.s3.sa-east-1.amazonaws.com/vibbraneo/15/12"}
@@ -64,6 +65,7 @@ export default function ListHomeDeals() {
                                 </div>
                             </dl>
                         </li>
+                        </Link>
                     ))}
                 </ul>
 

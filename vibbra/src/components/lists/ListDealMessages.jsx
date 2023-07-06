@@ -4,9 +4,7 @@ import React, {useEffect, useState} from "react";
 import {AUTH_STORAGE, USER_STORAGE} from "@/storage/storageConfig";
 import {api} from "@/services/api";
 import {AppError} from "@/utils/AppError";
-import Link from "next/link";
 import {useRouter} from "next/navigation";
-
 
 
 export default function ListDealMessages({ deal ,user}) {

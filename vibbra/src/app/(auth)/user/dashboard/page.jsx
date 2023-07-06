@@ -4,26 +4,6 @@ import ListHomeDeals from "@/components/lists/ListHomeDeals";
 import ListHomeInvites from "@/components/lists/ListHomeInvites";
 
 
-const people = [
-    {
-        name: 'Michael Foster',
-        role: 'Co-Founder / CTO',
-        imageUrl:
-            'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80',
-    },
-    {
-        name: 'Lindsay Walton',
-        role: 'Front-end Developer',
-        imageUrl: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-    },
-    {
-        name: 'Courtney Henry',
-        role: 'Designer',
-        imageUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80",
-    },
-
-]
-
 
 export default function Dashboard() {
 
@@ -49,7 +29,7 @@ export default function Dashboard() {
                                         </div>
                                     </div>
                                 </div>
-                                <ListHomeDeals/>
+                                    <ListHomeDeals/>
                             </div>
                         </div>
                     </div>

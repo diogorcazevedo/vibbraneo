@@ -1,14 +1,11 @@
 'use client'
 
 
-import { PhotoIcon, UserCircleIcon } from '@heroicons/react/24/solid'
+import {PhotoIcon, UserCircleIcon} from '@heroicons/react/24/solid'
 import React, {useEffect, useState} from "react";
-import {AUTH_STORAGE, USER_STORAGE} from "@/storage/storageConfig";
+import {AUTH_STORAGE} from "@/storage/storageConfig";
 import {api} from "@/services/api";
-import {AppError} from "@/utils/AppError";
 import {useForm} from "react-hook-form";
-import { yupResolver } from "@hookform/resolvers/yup"
-import * as yup from "yup"
 import {useRouter} from "next/navigation";
 import {getRequestError} from "@/app/services/error";
 import {ErrorMessage} from "@/components/ErrorMessage";
@@ -305,7 +302,7 @@ export default function Edit({ params }) {
                         <div className="px-4 sm:px-0">
                             <h2 className="text-base font-semibold leading-7 text-gray-900">Notifications</h2>
                             <p className="mt-1 text-sm leading-6 text-gray-600">
-                                We'll always let you know about important changes, but you pick what else you want to hear
+                                We ll always let you know about important changes, but you pick what else you want to hear
                                 about.
                             </p>
                         </div>

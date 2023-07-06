@@ -1,15 +1,10 @@
 import React, {useState} from "react"
 import {useForm} from "react-hook-form";
-import {yupResolver} from "@hookform/resolvers/yup";
-import * as yup from "yup"
 import {api} from "@/services/api";
 import {AppError} from "@/utils/AppError";
 import {AUTH_STORAGE} from "@/storage/storageConfig";
-import {PhotoIcon, UserCircleIcon} from "@heroicons/react/24/solid";
-import Link from "next/link";
 import {SuccessMessage} from "@/components/SuccessMessage";
 import {ErrorMessage} from "@/components/ErrorMessage";
-
 
 
 export function FormDealPhoto({deal}) {
@@ -26,7 +21,7 @@ export function FormDealPhoto({deal}) {
 
         try {
             api.defaults.headers.common['Authorization'] = `Bearer ${token}`;
-            const res = await api.post('/deal/imageStore/'+ deal.id, formData, {
+            await api.post('/deal/imageStore/'+ deal.id, formData, {
                 headers: {
                     'Content-Type': 'multipart/form-data'
                 }
@@ -55,7 +50,7 @@ export function FormDealPhoto({deal}) {
                     <div className="grid grid-cols-2 gap-4">
                         {deal.photos.map((photo) => (
                             <div className="col-span-1" key={photo.id}>
-                                <img className="w-24 h-24  flex-shrink-0" src={photo.src}/>
+                                <img alt="" className="w-24 h-24  flex-shrink-0" src={photo.src}/>
                             </div>
                         ))}
                     </div>

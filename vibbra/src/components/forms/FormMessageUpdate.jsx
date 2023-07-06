@@ -1,10 +1,10 @@
 "use client"
 
-import React, { useState } from 'react'
+import React, {useState} from 'react'
 import * as yup from "yup";
 import {useForm} from "react-hook-form";
 import {yupResolver} from "@hookform/resolvers/yup";
-import {AUTH_STORAGE, USER_STORAGE} from "@/storage/storageConfig";
+import {AUTH_STORAGE} from "@/storage/storageConfig";
 import {api} from "@/services/api";
 import {AppError} from "@/utils/AppError";
 import {SuccessMessage} from "@/components/SuccessMessage";

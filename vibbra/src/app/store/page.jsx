@@ -8,7 +8,6 @@ import {api} from "@/services/api";
 import {getRequestError} from "@/app/services/error";
 import {ErrorMessage} from "@/components/ErrorMessage";
 import Link from "next/link";
-import SlideBidCreate from "@/components/SlideBidCreate";
 
 
 export default function Store() {

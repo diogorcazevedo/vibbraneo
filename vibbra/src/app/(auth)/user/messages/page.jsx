@@ -3,12 +3,10 @@
 import React, {useEffect, useState} from "react";
 import {AUTH_STORAGE, USER_STORAGE} from "@/storage/storageConfig";
 import {api} from "@/services/api";
-import {AppError} from "@/utils/AppError";
 import Link from "next/link";
 import {useRouter} from "next/navigation";
 import {ErrorMessage} from "@/components/ErrorMessage";
 import {getRequestError} from "@/app/services/error";
-
 
 
 export default function Messages() {
@@ -64,7 +62,7 @@ export default function Messages() {
                         <tr key={deal.id} className="divide-x divide-y divide-gray-200">
                             <td className="text-sm p-2">{deal.id}</td>
                             <td className="text-sm p-2">
-                                <img className="w-24 h-24  flex-shrink-0" src={deal.photos[0].src}/>
+                                <img alt="" className="w-24 h-24  flex-shrink-0" src={deal.photos[0].src}/>
                             </td>
                             <td className="text-sm p-2">
                                 {deal.description}

@@ -1,18 +1,15 @@
 'use client'
 
 import React, {useEffect, useState} from "react";
-import {AUTH_STORAGE, USER_STORAGE} from "@/storage/storageConfig";
+import {AUTH_STORAGE} from "@/storage/storageConfig";
 import {api} from "@/services/api";
-import {AppError} from "@/utils/AppError";
-import Link from "next/link";
 import {useRouter} from "next/navigation";
 import SlideFormBidAcceptEdit from "@/components/forms/SlideFormBidAcceptEdit";
 import {getRequestError} from "@/app/services/error";
 import {ErrorMessage} from "@/components/ErrorMessage";
 
 
-
- export default function Bids({ params }) {
+export default function Bids({ params }) {
 
      const [bids, setBids] = useState(null);
      const [loading, setLoading] = useState(true);
@@ -85,7 +82,7 @@ import {ErrorMessage} from "@/components/ErrorMessage";
                                 {bid.description}
                             </td>
                             <td className="text-sm p-2">
-                                {bid.accepted == "1" ? 'Aceita':'Negada'}
+                                {bid.accepted === 1 ? 'Aceita':'Negada'}
                             </td>
                             <td className="text-sm p-2">{ new Intl.NumberFormat('pt-BR', { style: 'currency', currency: 'BRL' }).format(bid.value) } </td>
                             <td className="text-sm text-center items-center justify-center p-2">
