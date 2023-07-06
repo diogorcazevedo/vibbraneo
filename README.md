@@ -18,9 +18,6 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
 ![Home 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/2.png)
 
 
-
-
-
 ## Layout Login
 
     * Login
@@ -38,21 +35,17 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
     * Ambiente Store - listar ofertas
 
 
-- Navegação topbar
-
-![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/1.png)
-
-
 ### Listar Produtos
 #### Informações sobre:
+- Navegação topbar
 - Valor
 - Vendedor
 - Descrição
 - Trocar (quando estiver disponível para troca)
 
 ![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/9.png)
-![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/10.png)
-![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/11.png)
+![layoutStore 2](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/10.png)
+![layoutStore 3](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/11.png)
 
 
 
@@ -61,23 +54,19 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
 #### Informações sobre:
 - Descrição
 - Fotos
-
-
-![Store 3](https://cvws.icloud-content.com/B/AQa3bD-ZCuVHedpiG8uWLWsWEMNWAWtOPqv-mYa7RpZqwnUO2_JmAThP/ct_s3.png?o=AmrLSKjmTv56Ar6u1ie1LkbN-f0pUNBONDtF_JzhgW5A&v=1&x=3&a=CAogwIeXWbaIgoIJ-L_fYqN1X3Pah7qQzdX3Ejnkk5_AXYISbRCFhrGakjEYheOMnJIxIgEAUgQWEMNWWgRmAThPaiaZenx2G3gW0YlIbI30OO_LjcAKJUlyrS9Qzm6KNxdbkDhtnDO4Y3ImHwnfuc3CAOtU52kKQHOeNuJFQYc2UteT2cxsM0OH-RFvIwKGelk&e=1688517947&fl=&r=1ef00a62-6692-4680-960a-c4bcc093d1f4-1&k=qNeAY-a2xJ8wK-2pcGGUEg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=EgR97Ub3NG3IdZO7izIrW-n1hps&cd=i)
+![layoutStore 4](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/12.png)
 
 #### CTA - Comprar
-
-![Store 4](https://cvws.icloud-content.com/B/ASSImJt8gySDYY2Luds3F8wE9RThAbDAnvikivl_EqA9YeV6To-4rCbx/ct_s4.png?o=AjA9qOWnobAy17RabXqqA1An9NmoxrqoPUv7eDUonjYw&v=1&x=3&a=CAogqvicr95vuT1BRUxdZnv0fYZcwnJ9GjwpQEcV5GelCpMSbRDE-7CakjEYxNiMnJIxIgEAUgQE9RThWgS4rCbxaibifVqIiwsS4-hBE9rPFUC13CIaiArCkT6fLYbDmzSV56hJUV8vuHImzUlYz76G8rlcacy6s7Aak1V-O2sCDCdjE-6FxkOReyJxEPKU0p4&e=1688517946&fl=&r=49e58b20-2dbc-45af-b580-0b7c2daadb30-1&k=e8eF5I4XNbgijWBqijpmLA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=-wc_JhfxWmPp1d8J9CIdP7EswSQ&cd=i)
+![layoutStore 5](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/13.png)
 
 #### CTA - Trocar (quando estiver disponível para troca)
-
-![Store 5](https://cvws.icloud-content.com/B/Ab2MyQgrlRml5sgneCXiigttOUD4AS9flrPmxxm6Zc08ojATdJt12OEO/ct_s5.png?o=AqOmtGubedZKJbMXICBttoxhkHSEdaEx2sq-ggkCiDkQ&v=1&x=3&a=CAoglIQxuqJMH3jPO1pbmR-gtaQ7y60HenZI5oRxVDbE3sESbRCn3bCakjEYp7qMnJIxIgEAUgRtOUD4WgR12OEOaiZFxPNKWCyPYypPebYuskDXVxoRvhWj7T5EvGW27vQzpaYWFIZrEHImKHN_DDU3fdje-lP5m4lLH0CjG0OFKFqfeL4vcA4a1DeDpir3mfc&e=1688517942&fl=&r=2a97b790-bd79-46f5-b6a4-9da14006604b-1&k=tpOw5YJOrvhfyS_vCZlxVw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=BpDqAHa3aNAZ4576yag2EISpoqs&cd=i)
+![layoutStore 6](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/14.png)
 
 ####  Mensagem
-![Store 6](https://cvws.icloud-content.com/B/AXEOfNiIE9F8ADYRSrRR6ruJfG7RAV01o6oogLDuv3umOOqSMZWjx8_O/ct_s6.png?o=AmrIatJWHzaXhwBHBbcXf_giV_4aE0oJa1jmIsqNMyzC&v=1&x=3&a=CAogSVYOKl5613tJzrAM6Z_NHc3eEL5c7NKv9pTWSnKGXv4SbRC4yrCakjEYuKeMnJIxIgEAUgSJfG7RWgSjx8_Oaib9Hhi7kXrU0sF4r-RQCVHv4y6D_qfeYl7mX3_go85RfGxMASrqT3ImkZsz9NSRoUIWxMmCv-bG0ABL7ykyhlQlCDIRet9c-VnPgU9IEvg&e=1688517940&fl=&r=3784a3a4-0a42-4dbb-a6ec-7c647ed58ae2-1&k=BdqTl9A8YFa2plqEKIlm6Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=QBGJ9VnpmX3SWfeEAqOKrqzCzAI&cd=i)
+![layoutStore 7](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/15.png)
 
 ####  Galeria de images
-![Store 7](https://cvws.icloud-content.com/B/AT1G0g7XhbWw1AqQwSnOx0Tu1meyAcEQdpYG0e_zud58hlOO3kbSmw0B/ct_s8.png?o=AnNVA6hJNoNT0OMQcwlAHbOPIkkdU32Vlabli0AoOax-&v=1&x=3&a=CAogjaci6ZbW9Ili9cGHYS6-HIwk8J6Lg2Y02ca27mwgQmUSbRCmmpvBkjEYpvf2wpIxIgEAUgTu1meyWgTSmw0BaiYvTRBKnmhzHdGK8KkrZ_BEKvRiKqKNCiklwHg82mrl-pbVq6f1W3Im3UfOPfWEUY6DgH0P0PZrutaFxBtIfPS0C1oaQnj0H4_hQpC3r18&e=1688599378&fl=&r=ca56f8bb-8707-426a-b2c4-c48944155a51-1&k=RUf0RK3r81PZkYO9sBo0CA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=NzJVtUm22dCfduTU-vVKHB5WWi4&cd=i)
+![layoutStore 8](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/16.png)
 
 ## Layout Dashboard
 
@@ -93,23 +82,25 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
 
 - Navegação topbar
 - Navegação sidebar
-![layoutDashboard 1](https://cvws.icloud-content.com/B/Adhn3xMZqL2HsElqEji4oCb5ZI7iAYxP9v5Ci0wo1pH9eN8DZ5D1rdqf/lctd1.png?o=AukbQ3EhW9LLXZVdS83j1ZcGH7Q5CYSOtr0EHrAEuyH5&v=1&x=3&a=CAogxxvCuKMt67DYXcWt3p0wpX9xtSXprhDzmb6gW98nPlkSbRC83p6akjEYvLv6m5IxIgEAUgT5ZI7iWgT1rdqfaiaSrvXKXRFKPjCEVx0a5toHhLBzOTZ8yapDnfe65tllWj3_E1NE_nImZo4df6c7TrvfEO9AXu4ib_VkMLQpKAa8kSc1wOaAgAKv8a5WrSI&e=1688517647&fl=&r=305925b8-ae5f-4c25-8ed5-b004a8c1275f-1&k=0zthOsZgJkGKExKHuv4vFw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=lAms6WT9snAkv7otWfnOzjn0kR4&cd=i)
+![dashboard 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/17.png)
+
 
 ### Painel Editar Perfil
 - Dados Pessoais
 - Endereço
 - Senha
+![dashboard 2](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/18.png)
+![dashboard 3](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/19.png)
+![dashboard 4](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/20.png)
 
-![Dashboard 1](https://cvws.icloud-content.com/B/AWYr-f0C6PTJCR9Ol5_PysSCV228AVVpbA10DPaMSvk_Capr-XghSSpx/ctd1.png?o=AuvAXdU_0iNEm8mU3udrkOmLtyzr7bJaVPwhiiyNotGf&v=1&x=3&a=CAogv_vNYvY_M6_A2W5zt6uAr2nL-GvfqHINZTjlmJKl2TwSbRCSr7qakjEYkoyWnJIxIgEAUgSCV228WgQhSSpxaiZ2qUiq38qrqqgy_QI0Kn5ZpqiMWIySNqTEhios5V641Oth1L-wdHImLCVu5YXr7LQ72Vzn5sGJXRKyZ3cs9rFkwakItzhwRtf28rrkqc8&e=1688518100&fl=&r=d83f1d4d-ce0f-41d4-8e25-c3260618ffac-1&k=L5wM0l5M9-DKwxlgwo_JyQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=ZZoVX2PynLzR22JfqaADYoj1ZtA&cd=i)
-![Dashboard 2](https://cvws.icloud-content.com/B/AVbbsXx8dl3_-Jjd3BLHp1Nm5TCLAUH_flh0cc57pQ06QfGgG-GFptyq/ctd2.png?o=AlkTKal5MvtgeVXs8XNICu7CJaICoHWqga-xcrmMQmFU&v=1&x=3&a=CAoglyMyhhQU96l1wkRk7VZw39ML0jlfD-SjjJnqLeO52ZcSbRDE17qakjEYxLSWnJIxIgEAUgRm5TCLWgSFptyqaiaAP5rOJI9u9xf3rlP7S0njWSBYFa4TVNexZTgclx2r8rVOqqX_-nImEgDUoyHqMrJJGZyPn5f2ccTxlcOHaMsjK9jfCRnEh8gN3vzhZlE&e=1688518105&fl=&r=ff489657-1d66-45d8-b99b-707f1bb5a344-1&k=8O8Txex3tzsL4BA9CyRUfA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=a4EzR5md1Zta92_uIXbkf3yjGo8&cd=i)
-![Dashboard 3](https://cvws.icloud-content.com/B/AcHUIDPHhRWEEWa6F2N9IQuWje_hAXb9crWCi9J3aHD3ziEDHzctt7dR/ctd3.png?o=Arq0AQ2dKq3t--qyITy6LuWmxL-lAcdB5qMocwz5ls5f&v=1&x=3&a=CAogzo1xOHIGQSntpc-3evq86oHetrZ4n4A2KurdQ-NU7q8SbRCIxbqakjEYiKKWnJIxIgEAUgSWje_hWgQtt7dRaibFxfe_c5Q99DipSWZar72P57LWbKRZ8QTeyf4Yz4ile5DPPUxF6HImfwuBCxec3BdIOmATe14yVs7Zqc37n1YL8rh7JoUowzoHPzyIOJk&e=1688518103&fl=&r=1415553a-acf7-4e31-9265-3ef9f09ba9fc-1&k=TRd9joSFVWClF0HcAP5gpg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=RxShUArrmEPC5GurkzNg_MaqN48&cd=i)
 
 ### Painel Home
 - Listar resumo propostas
 - Listar resumo Convites
 
-![Dashboard 4](https://cvws.icloud-content.com/B/ARG2tFx9_AlTKiS9mIYqr5d2YzuPAVo68HHwe7z4x-kwV_YmQpjTf9Og/ctd_4.png?o=Avh7MA3sPvU5ufBmtyt_Af9d4XikWr3cH5sRBX49xlS9&v=1&x=3&a=CAogbKp_nwFktJdTg6RIGo07VP_0urrXNDWzIvyCkhPivnASbRDYmMuakjEY2PWmnJIxIgEAUgR2YzuPWgTTf9OgaiaKp4v2JklYI1WkcLi_uOsEjVXmnmZV9tLE_CFT8_9Z1wuLMowVEXImHeFaudEnAeTGYgK-4jUmVH2ZVIooc_4fMkbk88Kyv5bnq5B7Tqo&e=1688518376&fl=&r=3d7243d7-cd7b-44f7-9e24-935408dabac4-1&k=ckanPVeE8HLNbKSyvx9mew&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=ldJKM3pqOe8GaqZ9oXbGDvabDno&cd=i)
-![Dashboard 5](https://cvws.icloud-content.com/B/AUrVp67D3NNqkUgVJWDJCauOGPLHAXvD2X9tZA3RIL5XzV58sG-Io9ne/ctd_5.png?o=AnWLtvNukw_YfXvnR1lyWnkhQ32o5F3_5vDtiCcHILNz&v=1&x=3&a=CAoglV13og1RgZdXGWMrYcUaIS3FN40kC9P7-PgMj59txR8SbRCHgsuakjEYh9-mnJIxIgEAUgSOGPLHWgSIo9neaiaehMT779OCsE-CY2wbSoMqMI3BRfEITZt_iAKDUduQ28LLMEnuWnImywPOTnoq048XpbQZwL2w1ZTUFv5HLvXo7jX_g0p93RWz4270ifY&e=1688518373&fl=&r=2afefadd-0ea4-4ee4-b9d4-1f391ab9e488-1&k=R3zf5dMAStvrtFaFVy9ctw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=5av-jbasM7HTwJLJfKpjO1cdLUc&cd=i)
+![dashboard 5](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/21.png)
+![dashboard 6](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/22.png)
+
 
 
 ## Ambiente de negócios
