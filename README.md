@@ -26,11 +26,11 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
     * Login
     * Deve ser acessada na URL base de login do site (/login) e deverá conter campo para informar login e senha, efetuando o login.
 
+![Login 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/5.png)
+![Login 2](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/6.png)
+![Login 3](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/7.png)
+![Login 4](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/8.png)
 
-![Home 1](https://cvws.icloud-content.com/B/AUhQ4FxbCiqrCENjFGVqzmALRSb_ATFh-LW9P_o9s70vb3Wa3Z6v86-A/ct1.png?o=AqkKuSBUHCl8qs9Avm97pkBGQNIZXJbek8RRvEzjGFpQ&v=1&x=3&a=CAogPiN85NxWVTyaDZ-rcWoLR-7hlXSxXmeMhrOXm9MFZfkSbRD-yPmXkjEY_qXVmZIxIgEAUgQLRSb_WgSv86-AaiZP5wHR1RYKrTmN0MhmxpT3YCGUhQtPqsVZ9MPBbQ_yoZ7do-eH5XImbz60tTi5PjuuqEpUwDL9AODvHycka62XWsvIfW_eUjP5dN3_gAg&e=1688512844&fl=&r=148c4891-0410-4c19-9e0c-3027538e58b5-1&k=djOlVEsPtiORLzZECFGOIw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=GWI-yhf4eHTFUhKOaz9kiVwMgFQ&cd=i) 
-![Home 2](https://cvws.icloud-content.com/B/AVjgGMrVhsXPO4f_28hx7net2yGRAZLSkKoHg6_OqKOn_oOuWnTWo48k/ct2.png?o=Am88JL0nu8fo8Qoda-MfHctdnU01F55DpWcxnARi9XDe&v=1&x=3&a=CAog_JNfPQ8h6SAnHe8oOzR8LtNg3TgXjr_7zzbdW33GCkMSbRD77v2XkjEY-8vZmZIxIgEAUgSt2yGRWgTWo48kaib99wTenEwvVaP0YjefqJ-7qFgoJrs49KJT6ECaKWMBg7FzDFVOm3Imux5ZjcKN8K1Z7UNHJ8IQqQHfs1zBiqOKL9Lq6LCOzY1CgNqGVp8&e=1688512914&fl=&r=00bfc1a4-2ff1-4f05-9e9f-83c43c9eee20-1&k=8gDQ_Drc_kKgUOdBAYklGw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=LzgQK8EPxjx6ylBGNHUuzjXrQwo&cd=i) 
-![Home 3](https://cvws.icloud-content.com/B/AYqeV1r1f3cRv7Ph-4LdDyaS7UbrAbpLRZZY1eUsqbi_ZaVqJrxk9Ub3/ct3.png?o=Amh4a7S9dPq0V6HUyZ53Di70pGWGL45JTV_DZRqZzX69&v=1&x=3&a=CAogfThbHmu-wN3q4TWKSZ3sNoGxThyHFfLCdJnjHBkupu0SbRD8nP6XkjEY_PnZmZIxIgEAUgSS7UbrWgRk9Ub3aiZm-2jDlYt6EHk6flTJCCtgupvWC2Lnh9yoV9WeU7SF82wL22cCenImZAZrHuNMFOEtis8Intl4AWib-W1M2ZpfpD-_TWKhN7qVYxAlAlw&e=1688512920&fl=&r=1bca9c57-caaa-472d-bf61-a6ed17ea1700-1&k=N6WHe8MR1FOrWONSZKIjMQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=9V-HjrhR0KkFRFF56FLCwoHklyM&cd=i) 
-![Home 4](https://cvws.icloud-content.com/B/AcGSFbSPyyK90HGfDz9qDK4Y06V0AQcErBd9hmMHMenqy41g81qw7eiN/ct4.png?o=Aixqx6Sw8Qv86My7ZxMsydaFivqMVImTJAoqBohucOQ2&v=1&x=3&a=CAogmoCvVXpsAqNO4jwB73He-1HfugDF9Ylotj2iXkbeG3USbRCDw4CYkjEYg6DcmZIxIgEAUgQY06V0WgSw7eiNaiaP5vzwMAHyjTdqFtQzDtZGmIniGCcVCQHWc3e-eLeQpU7f4aGEanImm6WVDPi0KOXVt4gGeewDZUjxghwNpzU9L_Q1dHg6VS0XWYwoWGU&e=1688512958&fl=&r=241fae58-a64a-4511-a28e-1387d4920110-1&k=h9kn9dxWE09cXSJB-WnC7g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=VMXUj7YS-PQJz28YkLI5AfsT53g&cd=i) 
 
 ## Layout Store
 
@@ -39,7 +39,8 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
 
 
 - Navegação topbar
-![layoutStore 1](https://cvws.icloud-content.com/B/AX1o3qCfFjX05BI9UvINvEftubi4AWOhy1xHfJcIYjFSvHyAY3Vp4sur/lcts_1.png?o=AhmnY8K7OnI9wb_-gQRwO0VOC8RhpPy-zdOoyNU_kV5b&v=1&x=3&a=CAogVRgQFZQf7e-M_SyXZF93Gtr2Aye5aYoduILWbouAqgESbRCvlaiakjEYr_KDnJIxIgEAUgTtubi4WgRp4suraiaoRibuwzJGLWZRIdIsSS7S5UUgrlfyPtXTEaO6v9vfnGbmxzEtfXImM5LuddaYsaBdgVVlHnO4fVO7qKhFja6y6ZQQrNF1F0iRfMgjQ0Y&e=1688517802&fl=&r=142b830d-875a-4ef9-905e-08237f5dec59-1&k=d5XgXbXfsM3g4Zw35brNcQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=WzTp51ekdGW995AQE4QbaSnAf40&cd=i)
+
+![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/1.png)
 
 
 ### Listar Produtos
@@ -48,9 +49,12 @@ Um espaço onde os profissionais possam postar produtos componentes de tecnologi
 - Vendedor
 - Descrição
 - Trocar (quando estiver disponível para troca)
-![Store 1](https://cvws.icloud-content.com/B/AZpzi1LWlYXXlK61MGHC6LsQQWHOAYjBoBUMTctWNrCU5orO-7zylQLU/cts_1.png?o=At31CONpBwV-KB9RR04lpdnuGqqDIXqiLb-98H19a9_D&v=1&x=3&a=CAogREeeVIfqVRKA1Eid4Ij89wCCIZZoCjqeKIPYD-6dlJQSbRCCqKuakjEYgoWHnJIxIgEAUgQQQWHOWgTylQLUaiYLBH7H9M8pgJ2wF5MyJMhVDaAfMcMO5eWNTglhqopwS4CyR3o2vHImGyQUkcmOyx3gte1GezVWHZ7lSfQazkRH7GjYBLVirwL3zfL1f00&e=1688517853&fl=&r=a41e0b98-9acf-438d-850d-a8aa91b32ab9-1&k=9EPvJZLGO7ZKP5P2Uyx02Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=kUn-6tJy6mez545CaaK1cNn9wYk&cd=i)
-![Store 2](https://cvws.icloud-content.com/B/AfJVSc6YS-JafId4zbiEiuR3NSs4ATFbIwiDYCBt0IILteVQqlM0AEIt/cts_2.png?o=Au2BK5xfJ18NCk52MWdKDspjV3PhVuDuya6iAkdbPheX&v=1&x=3&a=CAogHBKpbuLjmb8yJEjkMsqtVJBnRONR1yqUcVbVL7hqELoSbRDnvquakjEY55uHnJIxIgEAUgR3NSs4WgQ0AEItaibPurWdOLbmbVzUshnAplAWa_qxilYqdxkGENOQAewJV6qrEI3OynImqWjeoxIjWox4IOV8RP7zAGAQLPOuoyBfF1X8_c6i-2I8fbAhzWo&e=1688517856&fl=&r=5f4622c7-8f16-4175-ba15-0028da8f3531-1&k=R4s3UH02F-tLG7X51Jrc4Q&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=SwwHldDX11ESZYYlAhlsJ17j_zo&cd=i)
-![Store 3](https://cvws.icloud-content.com/B/AbeEyYooK5UiOzfiOs-i71kj0H8VARfjAzSklFg4jIkXb-hyexcqvudk/cts_3.png?o=Ao_fkWv3_K074Nu65zgkemA2qTGaqtuu-_Ddii6Qaf2V&v=1&x=3&a=CAogon_IUldr85Z62DKFcHRz9FB9a_E3OZnzipaN-aO_2sASbRCu06uakjEYrrCHnJIxIgEAUgQj0H8VWgQqvudkaib0NS485PkvI-0cIUB4yJhPZy8ZPyftd-5-pUzJa47kbj7Ab_kIZ3ImQiON-n1T5RC0XIngjQd3Nub-cKNhY670j16fBkGlXVPYBXvqojM&e=1688517859&fl=&r=d034d97e-b6fc-4fed-8fde-3cc5c312d76f-1&k=8wF71ZSQQ9JpBs2RQlskhg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=61&s=BwvEkyixpLtyZ75rVZWMRaZ3kyU&cd=i)
+
+![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/9.png)
+![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/10.png)
+![layoutStore 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/11.png)
+
+
 
 
 ### Página do Produto
