@@ -10,18 +10,13 @@ Vibbraneo é uma aplicação full stack web construída para teste na plataforma
 Um espaço onde os profissionais possam postar produtos componentes de tecnologia para venda ou troca, de forma que eles consigam negociar através da troca de mensagem, além de convidar novos amigos para participar do e-commerce.
 
 ## Layout Home
-
+### apresentação de projeto e produtos em destaque
     * Tela inicial - 1 
     * Atribuições divididas com tela logada, já que o sistema é para funcionar logado!!!
 
 
 ![Home 1](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/1.png)
 
-
-![Home 2](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/2.png)
-
-
-![Home 3](https://github.com/diogorcazevedo/vibbraneo/blob/main/assets/3.png)
 
 
 
